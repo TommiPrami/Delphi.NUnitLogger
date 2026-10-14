@@ -75,5 +75,10 @@ __history/
 __recovery/
 *.~*
 
+# DUnitX and TestInsight
+dunitx-results.xml
+TestInsightSettings.ini
+
 # Castalia statistics file (since XE7 Castalia is distributed with Delphi)
 *.stat
+
